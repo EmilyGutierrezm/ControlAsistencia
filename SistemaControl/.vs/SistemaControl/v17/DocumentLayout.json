@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Control Asistencia Emily\\SistemaControl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{600D027A-67CF-476C-92F4-4282DF0C13E4}|SistemaControl\\SistemaControl.csproj|c:\\users\\usuario\\desktop\\control asistencia emily\\sistemacontrol\\sistemacontrol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600D027A-67CF-476C-92F4-4282DF0C13E4}|SistemaControl\\SistemaControl.csproj|solutionrelative:sistemacontrol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600D027A-67CF-476C-92F4-4282DF0C13E4}|SistemaControl\\SistemaControl.csproj|c:\\users\\usuario\\desktop\\control asistencia emily\\sistemacontrol\\sistemacontrol\\universidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600D027A-67CF-476C-92F4-4282DF0C13E4}|SistemaControl\\SistemaControl.csproj|solutionrelative:sistemacontrol\\universidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Universidad.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Control Asistencia Emily\\SistemaControl\\SistemaControl\\Universidad.cs",
+              "RelativeDocumentMoniker": "SistemaControl\\Universidad.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Control Asistencia Emily\\SistemaControl\\SistemaControl\\Universidad.cs",
+              "RelativeToolTip": "SistemaControl\\Universidad.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T18:59:37.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Control Asistencia Emily\\SistemaControl\\SistemaControl\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaControl\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Control Asistencia Emily\\SistemaControl\\SistemaControl\\Program.cs",
+              "RelativeToolTip": "SistemaControl\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T18:59:15.55Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+C:\Users\Usuario\Desktop\Control Asistencia\SistemaControl\SistemaControl\bin\Debug\net8.0\SistemaControl.exe
+C:\Users\Usuario\Desktop\Control Asistencia\SistemaControl\SistemaControl\bin\Debug\net8.0\SistemaControl.deps.json
+C:\Users\Usuario\Desktop\Control Asistencia\SistemaControl\SistemaControl\bin\Debug\net8.0\SistemaControl.runtimeconfig.json
+C:\Users\Usuario\Desktop\Control Asistencia\SistemaControl\SistemaControl\bin\Debug\net8.0\SistemaControl.dll
+C:\Users\Usuario\Desktop\Control Asistencia\SistemaControl\SistemaControl\bin\Debug\net8.0\SistemaControl.pdb
+C:\Users\Usuario\Desktop\Control Asistencia\SistemaControl\SistemaControl\obj\Debug\net8.0\SistemaControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Control Asistencia\SistemaControl\SistemaControl\obj\Debug\net8.0\SistemaControl.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Control Asistencia\SistemaControl\SistemaControl\obj\Debug\net8.0\SistemaControl.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Control Asistencia\SistemaControl\SistemaControl\obj\Debug\net8.0\SistemaControl.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Control Asistencia\SistemaControl\SistemaControl\obj\Debug\net8.0\SistemaControl.dll
+C:\Users\Usuario\Desktop\Control Asistencia\SistemaControl\SistemaControl\obj\Debug\net8.0\refint\SistemaControl.dll
+C:\Users\Usuario\Desktop\Control Asistencia\SistemaControl\SistemaControl\obj\Debug\net8.0\SistemaControl.pdb
+C:\Users\Usuario\Desktop\Control Asistencia\SistemaControl\SistemaControl\obj\Debug\net8.0\SistemaControl.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Control Asistencia\SistemaControl\SistemaControl\obj\Debug\net8.0\ref\SistemaControl.dll
+C:\Users\Usuario\Desktop\Control Asistencia\SistemaControl\SistemaControl\obj\Debug\net8.0\SistemaControl.sourcelink.json
+C:\Users\Usuario\Desktop\Control Asistencia Emily\SistemaControl\SistemaControl\bin\Debug\net8.0\SistemaControl.exe
+C:\Users\Usuario\Desktop\Control Asistencia Emily\SistemaControl\SistemaControl\bin\Debug\net8.0\SistemaControl.deps.json
+C:\Users\Usuario\Desktop\Control Asistencia Emily\SistemaControl\SistemaControl\bin\Debug\net8.0\SistemaControl.runtimeconfig.json
+C:\Users\Usuario\Desktop\Control Asistencia Emily\SistemaControl\SistemaControl\bin\Debug\net8.0\SistemaControl.dll
+C:\Users\Usuario\Desktop\Control Asistencia Emily\SistemaControl\SistemaControl\bin\Debug\net8.0\SistemaControl.pdb
+C:\Users\Usuario\Desktop\Control Asistencia Emily\SistemaControl\SistemaControl\obj\Debug\net8.0\SistemaControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Control Asistencia Emily\SistemaControl\SistemaControl\obj\Debug\net8.0\SistemaControl.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Control Asistencia Emily\SistemaControl\SistemaControl\obj\Debug\net8.0\SistemaControl.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Control Asistencia Emily\SistemaControl\SistemaControl\obj\Debug\net8.0\SistemaControl.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Control Asistencia Emily\SistemaControl\SistemaControl\obj\Debug\net8.0\SistemaControl.sourcelink.json
+C:\Users\Usuario\Desktop\Control Asistencia Emily\SistemaControl\SistemaControl\obj\Debug\net8.0\SistemaControl.dll
+C:\Users\Usuario\Desktop\Control Asistencia Emily\SistemaControl\SistemaControl\obj\Debug\net8.0\refint\SistemaControl.dll
+C:\Users\Usuario\Desktop\Control Asistencia Emily\SistemaControl\SistemaControl\obj\Debug\net8.0\SistemaControl.pdb
+C:\Users\Usuario\Desktop\Control Asistencia Emily\SistemaControl\SistemaControl\obj\Debug\net8.0\SistemaControl.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Control Asistencia Emily\SistemaControl\SistemaControl\obj\Debug\net8.0\ref\SistemaControl.dll
